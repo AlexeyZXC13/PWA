@@ -1,0 +1,16 @@
+div img[datagit]{
+    width: 25%;
+    filter: blur(0.2em);
+    background-color:#e9ecef;
+}
+
+.image-lazy {
+    filter: blur(0em);
+    transition: filter 1.5s;
+    width: 10rem;
+}
+
+.mb-2{
+    max-height: 90vh;
+    overflow: auto;
+}
